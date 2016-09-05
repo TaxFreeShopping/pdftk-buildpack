@@ -1,1 +1,4 @@
+#!/bin/sh
+
+echo "pdftk-buildpack"
 exit 0
